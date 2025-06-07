@@ -70,3 +70,7 @@ However even the day level interval is not very interpretable.
 <p align="center">
   <img src="attachments/Pasted%20image%2020250607001112.png" width="400">
 </p>
+
+
+### Next steps
+1. See if output length can be predicted from the input length for a given model. If input length too long then maybe set it to be a different model. Requires research on whether it is appropriate. 
